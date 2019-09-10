@@ -1,0 +1,187 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-size: 14pt;
+	font-weight: lighter;
+	word-spacing:0.8pt;
+	color: gray;
+	font-family:PingFangSC-Semibold;
+}
+
+#main {
+	width: 860px;
+	height: 1200px;
+	margin: auto;
+	margin-top:50px;
+	box-shadow:5px 15px 15px 15px #979797;
+}
+
+ .head,.foot{
+	width: 700px;
+	margin: auto;
+}
+ul {
+	list-style-type: none;
+}
+
+.headright {
+	float: right;
+	text-align: right;
+	font-size: 16pt;
+}
+
+.emall{
+	margin-top: 30px;  
+	float: right;
+}
+
+.phone { 
+   margin-top: 50px;  
+	float: right;
+}
+
+.phone>p {
+    float: right; 
+	width: 150px;
+	margin-right: 20px; 
+}
+
+.phone>img {
+	float: right; 
+}
+
+.emall>p {
+	float: right;
+	width: 230px;
+	 margin-right: 20px;
+}
+
+.emall>img {
+	float: right;
+}
+.headleft {
+	float: left;
+	margin-bottom:20px
+}
+.headleft>h3 {
+	width: 130px;
+	font-size: 30pt;
+	font-weight: bolder;
+	color: black;
+	margin-top:30px;
+}
+
+.headleft>p {
+	width: 120px;
+	margin-top: 5px;  
+	font-size: 20pt;
+}
+
+.line {
+	clear:both; 
+	width: 700px;
+	height: 2px;
+	margin:auto;
+	z-index: 1;
+	background-color: gray;
+}
+.left{
+	width:400px;
+	float:left;
+} 
+.profile {
+   float:left;
+	width: 400px;
+	margin-top: 38px; 
+}
+
+.profile>h1 {
+	width: 400px;
+}
+
+.profile>p {
+	width: 380px;
+	margin-top:15px;
+}
+
+.experience {
+	float:left;
+	width: 400px;
+	margin-top: 50px;
+}
+
+.banyuan {
+	width: 400px;
+}
+
+.banyuan,.banyuan>h2,.banyuan>h2+div,.banyuan>h2+div{
+	width: 380px;
+	margin-top:5px;
+}
+.right{
+	width:220px;
+	float:right;
+}
+.right>li>img {
+	margin-top:40px;
+	margin-right:60px;
+	float: right;
+	border-radius: 67px;
+}
+.education {
+	float: right;
+	width: 220px;
+	margin-top: 50px;
+}
+.education>h1 {
+	width: 220px;
+}
+
+.education>ul>li>h2 {
+	width: 189px;
+}
+
+.education>ul>li>h2 {
+	width: 101px;
+	margin-top:20px;
+}
+.education>ul>li>h2+div {
+	width: 120px;
+	margin-top:15px;
+}
+.skill {
+	float: right;
+	width: 220px;
+	margin-top: 50px;
+}
+
+.skill>h1 {
+	width: 220px;
+}
+
+.j2 {
+	width: 189px;
+}
+
+.skill>ul>li>h2 {
+	width: 101px;
+	margin-top:15px;
+}
+
+.skill>ul>li>h2+div {
+	width: 130px;
+	padding-bottom:15px;
+	margin-top:15px;
+}
+h1{
+	font-size: 20pt;
+	letter-spacing: 2;
+	font-weight: bolder;
+	background-color:#979797; 
+	color: black;
+}
+h2{
+	letter-spacing: 2;
+	font-weight: bolder;
+	color: black;
+}
