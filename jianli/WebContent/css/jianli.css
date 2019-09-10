@@ -16,7 +16,7 @@
 	box-shadow:5px 15px 15px 15px #979797;
 }
 
- .head,.foot{
+ header,footer{
 	width: 700px;
 	margin: auto;
 }
